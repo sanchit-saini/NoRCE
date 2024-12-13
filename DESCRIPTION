@@ -11,7 +11,7 @@ Depends: R (>= 4.2.0)
 Imports:
   KEGGREST,png,dplyr,graphics,RSQLite,DBI,tidyr,grDevices,stringr,GenomeInfoDb,
   S4Vectors,SummarizedExperiment,reactome.db,rWikiPathways,RCurl,
-  dbplyr,utils,ggplot2,igraph,stats,reshape2,readr, GO.db,zlibbioc,
+  dbplyr,utils,ggplot2,igraph,stats,reshape2,readr, GO.db
   biomaRt,rtracklayer,IRanges,GenomicRanges,GenomicFeatures,AnnotationDbi
 Encoding: UTF-8
 RoxygenNote: 7.2.1

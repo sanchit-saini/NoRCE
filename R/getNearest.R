@@ -253,7 +253,6 @@ assembly <- function(org_assembly = c("hg19",
 #'
 #' @importFrom GenomicRanges GRanges
 #' @importFrom IRanges subsetByOverlaps
-#' @import zlibbioc
 #'
 #' @examples
 #'  \dontrun{
